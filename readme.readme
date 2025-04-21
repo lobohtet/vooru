@@ -1,0 +1,45 @@
+thanks for downloading KazVooru
+
+This Software is license less and open source.
+and you can modify as you want.
+
+
+
+
+
+kaz setup
+
+///here's how to install KazVooru on your website 🐺✨
+
+First, Extract the zip file ,
+there'll be all essential files in the kazVooru folder where this readme file exist.
+
+there'll be 2 folders to save video data and user data where secured with a htaccess.
+
+you just have to Modify some php files to meet your require, then put into your website 🐺✨
+
+
+
+
+
+saq
+
+[SAQ] Self Asked Questions 
+
+Q: what is KazVooru
+A: KazVooru is a Lightweight Video Sharing System that cane be installed on your website 🐺✨
+
+Q: How?
+A: It'll only take less than 70kb when setup, and for performance and easy mod, individual video and users will save as individual json files in teh respective folders.
+
+Q: Why?
+A: Instead of storing terabytes or videos in your server, it only store link that hosted on others server.
+
+Q: FFMPEG? 
+A: No, the KazVooru uses HTML5 player but if you want FFMPEG, you can install that and modify some codes.
+
+Q: More comment, more lag?
+A: Yes, the video having a lot of comments will lag that video page but not affect others, only the exact video. 
+
+
+🐺2024 Lobo's Software KazVooru 
