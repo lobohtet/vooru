@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^.*$ /error.html [R=403,L]
